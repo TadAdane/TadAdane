@@ -10,7 +10,8 @@ In my free time, I enjoy watch documentaries, architechtural drawing , . ðŸŽ® ðŸ
 
 Here are some of the programming languages and technologies I practice with:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadAdane&layout=compact&theme=radical) ![Tadiwos's GitHub Status](https://github-readme-status.vercel.app/api/username=TadAdane&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadAdane&layout=compact&theme=radical) 
+![Tadiwos's GitHub Status](https://github-readme-status.vercel.app/api/username=TadAdane&layout=compact&theme=radical)
 
 
 - HTML/CSS/JavaScript
