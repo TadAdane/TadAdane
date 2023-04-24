@@ -4,7 +4,7 @@
 
 Hi there! My name is Tadiwos, and I'm a Automation and Robotics student based in Poland. I have a passion for creating innovative solutions to complex problems, and I'm always looking for new challenges to take on.
 
-In my free time, I enjoy [Your Hobbies or Interests]. 🎮 🎧 🎨
+In my free time, I enjoy watch documentaries, architechtural drawing , . 🎮 🎧 🎨
 
 ## Skills 💻
 
