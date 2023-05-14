@@ -44,4 +44,4 @@ Feel free to reach out if you have any questions, or if you just want to say hel
 
 ![Visitor Count](https://profile-counter.glitch.me/{TadAdane}/count.svg) 
 
-This will display your visitor count on your profile page. You can customize the badge to match your theme and add it to your README file. 🚀
+.🚀
